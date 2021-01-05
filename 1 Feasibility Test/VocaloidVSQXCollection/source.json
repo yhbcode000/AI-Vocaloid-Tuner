@@ -1,58 +1,72 @@
-{
-    "source-1": {
-        "file": "vocaloidProject-1.vsqx",
-        "name": "C045 启明",
-        "creator": "混音：白糖の正义铃",
-        "website": "https://www.vsqx.top/project/vn1772",
-        "rank": 1
-    },
-    "source-2": {
+[
+    {
         "file": "vocaloidProject-2.vsqx",
         "name": "C002 远走高飞",
         "creator": "混音: リサRisa",
         "website": "https://www.vsqx.top/project/vn1801",
         "rank": 6
     },
-    "source-3": {
+    {
         "file": "vocaloidProject-3.vsqx",
         "name": "C104 煎熬",
         "creator": "扒谱：星葵/混音：seedking",
         "website": "https://www.vsqx.top/project/vn1743",
         "rank": 18
     },
-    "source-4": {
+    {
+        "file": "vocaloidProject-9.vsqx",
+        "name": "C026 腐草为萤",
+        "creator": "N/A",
+        "website": "https://www.vsqx.top/project/vn1784",
+        "rank": 22
+    },
+    {
+        "file": "vocaloidProject-10.vsqx",
+        "name": "C084 朝汐",
+        "creator": "vsqx:DZ韦元子",
+        "website": "https://www.vsqx.top/project/vn1752",
+        "rank": 33 
+    },
+    {
+        "file": "vocaloidProject-11.vsqx",
+        "name": "C092 人间不值得",
+        "creator": "N/A",
+        "website": "https://www.vsqx.top/project/vn1749",
+        "rank": 47
+    },
+    {
+        "file": "vocaloidProject-12.vsqx",
+        "name": "C007 千禧年后食谱颂",
+        "creator": "填词~超监督乌鸦，千年食谱颂vsqx~的的的的的说，制作~cocok7",
+        "website": "https://www.vsqx.top/project/vn1798",
+        "rank": 53
+    },
+    {
         "file": "vocaloidProject-4.vsqx",
         "name": "C020 夜行少女",
         "creator": "伴奏：小野道ono (https://www.dizzylab.net/albums/d/dlep02/)",
         "website": "https://www.vsqx.top/project/vn1788",
         "rank": 67 
     },
-    "source-5": {
+    {
         "file": "vocaloidProject-5.vsqx",
         "name": "C010 理想三旬",
         "creator": "调/混:邪云 扒谱:天啦噜我的串串儿",
         "website": "https://www.vsqx.top/project/vn1796",
         "rank": 76 
     },
-    "source-6": {
+    {
         "file": "vocaloidProject-6.vsqx",
         "name": "C082 流年如歌",
         "creator": "扒谱：磷元素P",
         "website": "https://www.vsqx.top/project/vn1753",
         "rank": 82 
     },
-    "source-7": {
-        "file": "vocaloidProject-7.vsqx",
-        "name": "【星尘】霜雪千年 feat.言和",
-        "creator": "维他奶de柠檬茶 (默认开放非商，b站UID:19483168)",
-        "website": "https://www.vsqx.top/project/vn383",
-        "rank": 5
-    },
-    "source-8": {
-        "file": "vocaloidProject-8.vsqx",
-        "name": "【南北组】勾指起誓",
-        "creator": "B站：萌萌哒的小龙猫，仅供学习，需要授权",
-        "website": "https://www.vsqx.top/project/vn383",
-        "rank": 3
+    {
+        "file": "vocaloidProject-13.vsqx",
+        "name": "C034 水平线的彼端",
+        "creator": "N/A",
+        "website": "https://www.vsqx.top/project/vn1778",
+        "rank": 106
     }
-}
+]
