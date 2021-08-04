@@ -5,5 +5,4 @@ AI tuner for VOCALOID singer.
 The new version of AI-tuner located here:
 
 <p align='left'>
-<a href="https://github.com/discover304/ai-machine-song-tuner"><img src="https://gh-card.dev/repos/discover304/ai-machine-song-tuner.svg"></a>
-</p>
+<a href="https://github.com/discover304/ai-machine-song-tuner"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/discover304/ai-machine-song-tuner.png" width="460px"></a></p>
